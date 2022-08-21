@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/19898602/185792078-c09fc67a-7eae-44d4-971d-8333e45a4fbc.png)
 
 
-Hello friends in this video I have made a automatic thread winding machine using Arduino.
+Hello friends in this video I have made an automatic thread winding machine using Arduino.
 
 775 DC motor used to run the spool and stepper motor is used to slide thread guide mechanism.
 
@@ -11,7 +11,7 @@ I have also used one rotary encoder to calculate the length of thread wind to th
 
 I have used one Nextion HMI from where User can give Input like how long thread need to be wind on spool in meter. 
 
-after winding that exact length of thread on spool both motor will stop automatically.
+After winding that exact length of thread on spool both motor will stop automatically.
 
 # COMPONENT USED
 
@@ -33,9 +33,9 @@ after winding that exact length of thread on spool both motor will stop automati
 
 ![image](https://user-images.githubusercontent.com/19898602/185790687-afda25b6-3f2d-4f48-9a4e-2f9d702c0e9e.png)
 
-First of all I have prepare the base of machine using 12mm wooden ply. and made the 8mm hole
+First of all I have prepare the base of machine using 12mm wooden ply. And made the 8mm hole
 
-at the four corner of the wooden sheet.
+At the four corner of the wooden sheet.
 
 This 8mm hole is used to install the rubber legs. 
 
@@ -45,9 +45,9 @@ I also made the all corner round using my bench sander machine.
 
 I then made the frame of 20x20 Alu. extrusion profile.
 
-This frame is used to attached all the components of the machine. 
+This frame is used to attach all the components of the machine. 
 
-The main reason to use 20x20 alu. profile is its very easy to attach and dettach the components by just using the T nuts.
+The main reason to use 20x20 alu. Profile is its very easy to attach and detach the components by just using the T nuts.
 
 
 ![image](https://user-images.githubusercontent.com/19898602/185791049-b752e615-c80e-4538-8154-261251576112.png)
@@ -56,23 +56,23 @@ The main reason to use 20x20 alu. profile is its very easy to attach and dettach
 
 Then I use my home made CNC router to cut the 6mm Acrylic.
 
-I made the to parts to hold the spool . 
+I made the to parts to hold the spool. 
 
-there is a hole in acrylic part to place the bearing in it, then a SS shaft pass through it.
+There is a hole in acrylic part to place the bearing in it, then a SS shaft pass through it.
 
-one end of this shaft is attached with timing pulley, 
+One end of this shaft is attached with timing pulley, 
 
-Then I attached both acrylic part with 20x20 Alu. profile infront of each other.
+Then I attached both acrylic part with 20x20 Alu. Profile in front of each other.
 
 
 ![image](https://user-images.githubusercontent.com/19898602/185791213-d862008f-0c70-4e6f-ad2c-75c26739371c.png)
 ![image](https://user-images.githubusercontent.com/19898602/185791225-55f2e9d9-c99e-439c-8c21-348328131b6c.png)
 
-Then I place a 775 DC motor on the one of the acrylic part. and secure it with the help of M4x10mm allen bolt.
+Then I place a 775 DC motor on the one of the acrylic part. and secure it with the help of M4x10mm Allen bolt.
 
-Then I connect timming pulley on the both end of shaft and DC motor shaft.
+Then I connect timing pulley on the both end of shaft and DC motor shaft.
 
-I connect both timming pulley with the help if timing belt.
+I connect both timing pulley with the help if timing belt.
 
 
 ![image](https://user-images.githubusercontent.com/19898602/185791348-5cad33de-a0f7-46b8-adac-f2ebf1ab8964.png)
@@ -96,7 +96,7 @@ I connected the lead screw and nema 17 stepper motor with the help of timing pul
 ![image](https://user-images.githubusercontent.com/19898602/185791698-ce7fabbb-f8b0-464a-8bac-1cea59360499.png)
 
 
-Here I have used a optical rotary encoder to count the lenght of thread wind to the spool. 
+Here I have used a optical rotary encoder to count the length of thread wind to the spool. 
 
 I used Orange 400 PPR 2-Phase Incremental Optical Rotary Encoder  
 A rotary encoder is a type of position sensor which is used for determining the angular position of a rotating shaft. 
@@ -115,12 +115,12 @@ It will give 2400 transitions per rotation between outputs A and B. A quadrature
 
 For this project I have used my multipurpose PCB this PCB can be used for so many projects. 
 
-I have design circuit and PCB ineasy EDA and ordered PCB from [JLCPCB](https://jlcpcb.com/IAT )
+I have design circuit and PCB in easyEDA and ordered PCB from [JLCPCB](https://jlcpcb.com/IAT )
 
 
 [JLCPCB](https://jlcpcb.com/IAT ) are the world leader in PCB manufacturing there PCB production rates are very much affordable and they have world class PCB production unit results fast PCB production.
 
-I have provided the link of circuit desgin so that you can modify it as per your need if you need to change any thing.
+I have provided the link of circuit design so that you can modify it as per your need if you need to change anything.
 
 [Multipurpose custom PCB](https://oshwlab.com/sharmaz747/multipurpose-pcb_copy_copy_copy)
 
