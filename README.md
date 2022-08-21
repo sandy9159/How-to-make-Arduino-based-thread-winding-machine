@@ -129,8 +129,12 @@ I have provided the link of circuit desgin so that you can modify it as per your
  ![image](https://user-images.githubusercontent.com/19898602/185792132-6d991caa-5e4c-4da9-88e1-d6110ecc5d05.png)
 ![image](https://user-images.githubusercontent.com/19898602/185792147-9360c677-95fd-4882-bc5e-beb40698c426.png)
 
+At last I have used Nextion HMI for user interface, 
+we can give commands like how long thread need to wind and start stop the machine. 
 
+In this way the construction of the arduino based thread winding machine is completed. 
 
+![MVI_0011_1_1](https://user-images.githubusercontent.com/19898602/185792436-34505c96-5cda-4dda-bb92-e8ff54261f02.gif)
 
 
 
