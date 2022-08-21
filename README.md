@@ -1,5 +1,8 @@
 # How-to-make-Arduino-based-thread-winding-machine
 
+![image](https://user-images.githubusercontent.com/19898602/185792078-c09fc67a-7eae-44d4-971d-8333e45a4fbc.png)
+
+
 Hello friends in this video I have made a automatic thread winding machine using Arduino.
 
 775 DC motor used to run the spool and stepper motor is used to slide thread guide mechanism.
