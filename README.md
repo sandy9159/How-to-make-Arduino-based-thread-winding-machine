@@ -126,7 +126,10 @@ I have provided the link of circuit desgin so that you can modify it as per your
 
 
 
- 
+ ![image](https://user-images.githubusercontent.com/19898602/185792132-6d991caa-5e4c-4da9-88e1-d6110ecc5d05.png)
+![image](https://user-images.githubusercontent.com/19898602/185792147-9360c677-95fd-4882-bc5e-beb40698c426.png)
+
+
 
 
 
